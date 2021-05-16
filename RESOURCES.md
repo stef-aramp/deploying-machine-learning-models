@@ -6,7 +6,7 @@
 
   https://arxiv.org/ftp/arxiv/papers/1810/1810.04570.pdf
 
-3. **Hidden Technical Debt in Machine Learning Systems (Google - Important checklist)**
+3. **Hidden Technical Debt in Machine Learning Systems (Google - Important checklist) !!!!!!!!** 
 
   https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf
 
