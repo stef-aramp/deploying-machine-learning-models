@@ -21,3 +21,7 @@
 6. Practical Code Implementations of Feature Engineering for Machine Learning with Python
 
   https://towardsdatascience.com/practical-code-implementations-of-feature-engineering-for-machine-learning-with-python-f13b953d4bcd
+  
+7. Feature Selection for Machine Learning: A Comprehensive Overview
+  
+  https://trainindata.medium.com/feature-selection-for-machine-learning-a-comprehensive-overview-bd571db5dd2d
