@@ -13,3 +13,11 @@
 4. Monitoring Machine Learning Models in Production
 
   https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/
+  
+5. Feature Engineering for Machine Learning: A Comprehensive Overview
+
+  https://trainindata.medium.com/feature-engineering-for-machine-learning-a-comprehensive-overview-a7ad04c896f8
+  
+6. Practical Code Implementations of Feature Engineering for Machine Learning with Python
+
+  https://towardsdatascience.com/practical-code-implementations-of-feature-engineering-for-machine-learning-with-python-f13b953d4bcd
